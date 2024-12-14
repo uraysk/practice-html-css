@@ -1,0 +1,17 @@
+.body {
+  margin-left: 30px;
+}
+.button {
+  margin: 100px 100px 0 0;
+  padding: 0 50px;
+}
+
+.click {
+  margin: 100px 200px 0 0;
+  padding: 0 50px;
+}
+
+.clickHere {
+  margin: 100px 0 0 0;
+  padding: 0 50px;
+}
