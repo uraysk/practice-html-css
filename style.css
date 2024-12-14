@@ -1,0 +1,30 @@
+.body {
+  margin: 30px;
+  background-color: gray;
+}
+
+.header {
+  margin-bottom: 20px;
+  background-color: orange;
+}
+
+.main {
+  margin-bottom: 40px;
+  background-color: green;
+}
+.main__topContent {
+  margin-bottom: 70px;
+}
+.main__topContentText {
+  margin-right: 100px;
+}
+.main__middleContentText {
+  margin-right: 200px;
+}
+
+.footer {
+  background-color: pink;
+}
+.footer__text {
+  margin-right: 300px;
+}
