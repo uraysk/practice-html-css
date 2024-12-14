@@ -1,0 +1,10 @@
+.buttonsWrapper {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-self: flex-start;
+  
+}
+
+.button {
+  padding: 20px;
+}
