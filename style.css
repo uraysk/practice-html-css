@@ -1,0 +1,22 @@
+.body {
+  margin: 50px;
+  background-color: gray;
+}
+
+.header {
+  margin-bottom: 50px;
+  background-color: orange;
+}
+
+.main {
+  margin-bottom: 30px;
+  background-color: green;
+}
+
+
+.footer {
+  background-color: pink;
+}
+.footer__text {
+  margin-right: 100px;
+}
