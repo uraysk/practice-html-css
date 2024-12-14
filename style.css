@@ -1,0 +1,10 @@
+.body{
+  margin: 30px;
+}
+.buttonsWrapper {
+  display: flex;
+}
+
+.button {
+  padding: 20px;
+}
