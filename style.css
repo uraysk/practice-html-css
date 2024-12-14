@@ -1,0 +1,15 @@
+.firstButtonsWrapper {
+  display: flex;
+}
+
+.secondButtonsWrapper {
+  display: flex;
+}
+
+.thirdButtonsWrapper {
+  display: flex;
+}
+
+.button {
+  padding: 20px;
+}
