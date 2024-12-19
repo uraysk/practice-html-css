@@ -1,0 +1,25 @@
+
+.body{
+  display: flex;
+  flex-direction: row;
+}
+.topButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  margin-right: 50px;
+}
+
+.bottomButtonsWrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomBottomWrapper{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.button{
+  padding: 20px;
+}
