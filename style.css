@@ -4,13 +4,16 @@
 }
 
 .header {
+  margin-bottom: 50px;
   margin: 50px 0 50px 0;
   background-color: orange;
 }
 
 .main {
+  margin-bottom: 30px;
   background-color: green;
 }
+
 
 .main__topContentTextFirst {
   margin-right: 170px;
@@ -27,13 +30,14 @@
   margin-right: 30px;
 }
 
+
 .footer {
   background-color: pink;
 }
-
 .footer__text {
-  margin-right: 40px;
+  margin-right: 100px;
 }
+
 
 
   
@@ -89,5 +93,6 @@
 .about__commentText{
     color:grey;
 }
+
 
 
