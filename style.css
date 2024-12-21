@@ -1,4 +1,36 @@
 
+.body {
+  margin: 50px;
+  background-color: gray;
+}
+
+.header {
+  margin: 50px 0 50px 0;
+  background-color: orange;
+}
+
+.main {
+  margin-bottom: 30px;
+  background-color: green;
+}
+.main__topContent {
+  margin-bottom: 10px;
+}
+.main__topContentText {
+  margin-right: 20px;
+}
+.main__middleContentText {
+  margin-right: 30px;
+}
+
+.footer {
+  background-color: pink;
+}
+.footer__text {
+  margin-right: 40px;
+}
+=======
+
   
   /*.main__text--lightsteelblue {
     background-color: lightsteelblue;
@@ -52,3 +84,4 @@
 .about__commentText{
     color:grey;
 }
+
