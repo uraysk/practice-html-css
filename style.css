@@ -1,7 +1,10 @@
-/* 
- ＊ 【title】クラスが付くHTMLに指示をします。
- ＊ 【title】クラスの色を青にする指示をします。
- */
  .title {
     color: green;
+   
+ .pageTitle {
+    color: blue;
+  }
+
+  .subTitle {
+    color: orange;
   }
