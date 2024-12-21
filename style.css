@@ -1,4 +1,3 @@
-
 .body {
   margin: 50px;
   background-color: gray;
@@ -10,6 +9,11 @@
 }
 
 .main {
+  background-color: green;
+}
+
+.main__topContentTextFirst {
+  margin-right: 170px;
   margin-bottom: 30px;
   background-color: green;
 }
@@ -26,10 +30,11 @@
 .footer {
   background-color: pink;
 }
+
 .footer__text {
   margin-right: 40px;
 }
-=======
+
 
   
   /*.main__text--lightsteelblue {
@@ -84,4 +89,5 @@
 .about__commentText{
     color:grey;
 }
+
 
