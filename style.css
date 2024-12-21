@@ -1,3 +1,28 @@
+
+.body{
+  display: flex;
+}
+.firstButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.secondButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.thirdButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.button {
+  padding: 20px;
+}
 .buttonsWrapper {
   display: flex;
   flex-wrap: wrap;
