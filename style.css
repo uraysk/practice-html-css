@@ -1,4 +1,26 @@
 
+
+/*.main {
+    background-color: lightgray;
+  }*/
+  
+  .main__text--red {
+    background-color: red;
+  }
+  .main__text--green {
+    background-color: green;
+
+ .title {
+    color: green;
+   
+ .pageTitle {
+    color: blue;
+  }
+
+  .subTitle {
+    color: orange;
+
+  }
 .about__title{
     color:orange;
 }
@@ -22,3 +44,4 @@
 .about__commentText{
     color:grey;
 }
+
