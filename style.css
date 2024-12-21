@@ -1,3 +1,4 @@
+
 .buttonsWrapper {
   display: flex;
 }
@@ -7,7 +8,19 @@
 .button {
   padding: 20px;
 }
+.body{
+  margin: 20px;
+}
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  /*align-items */
+  align-items: flex-end;
+}
 
+.button {
+  padding: 20px;
+}
 .click {
   padding: 30px;
 }
