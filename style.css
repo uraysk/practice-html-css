@@ -1,4 +1,24 @@
+.topButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 
+.middleButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.bottomButtonsWrapper{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+
+.button {
+  padding: 20px;
+}
 .body{
   display: flex;
 }
