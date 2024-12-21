@@ -1,3 +1,12 @@
+
+.buttonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  padding: 20px;
+
 .buttonsWrapper {
   display: flex;
   flex-direction: row;
