@@ -1,8 +1,11 @@
+.buttonsWrapper {
+  display: flex;
+}
 .body {
   margin: 30px;
 }
 .button {
-  padding: 50px;
+  padding: 20px;
 }
 
 .click {
