@@ -1,5 +1,12 @@
 .buttonsWrapper {
   display: flex;
+  flex-wrap: wrap;
+  height: 200px;
+  align-items: center;
+}
+
+.button {
+  padding: 20px;
   flex-direction: row;
   align-items: flex-start;
   margin-top: 200px;
