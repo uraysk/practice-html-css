@@ -1,4 +1,3 @@
-
 .buttonsWrapper {
   display: flex;
 }
@@ -16,7 +15,12 @@
   flex-direction: row-reverse;
   /*align-items */
   align-items: flex-end;
+
 }
+  .buttonsWrapper {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-self: flex-start;
 
 .button {
   padding: 20px;
