@@ -1,4 +1,5 @@
 
+
 /*.main {
     background-color: lightgray;
   }*/
@@ -20,3 +21,27 @@
     color: orange;
 
   }
+.about__title{
+    color:orange;
+}
+.about__schoolDetailTitle{
+    color:yellow;
+}
+
+.about__schoolDetailText{
+    color:grey;
+}
+
+.about__targetDetailTitle{
+    color:yellow;
+}
+.about__targetDetailText{
+    color:grey;
+}
+.about__commentTitle{
+    color:yellow;
+}
+.about__commentText{
+    color:grey;
+}
+
