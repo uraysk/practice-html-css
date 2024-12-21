@@ -1,5 +1,6 @@
 .buttonsWrapper {
   display: flex;
+  flex-wrap: wrap-reverse;
   flex-wrap: wrap;
 }
 
