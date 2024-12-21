@@ -1,4 +1,15 @@
 
+.main {
+    background-color: lightgray;
+  }
+  
+  /*.main__text--lightsteelblue {
+    background-color: lightsteelblue;
+  }
+  .main__text--lightgreen {
+    background-color: lightgreen;
+  }
+
 
 /*.main {
     background-color: lightgray;
@@ -44,4 +55,3 @@
 .about__commentText{
     color:grey;
 }
-
