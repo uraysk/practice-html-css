@@ -1,4 +1,17 @@
 .body {
+  margin: 30px;
+}
+.button {
+  padding: 50px;
+}
+
+.click {
+  padding: 30px;
+}
+
+.clickHere {
+  padding: 60px;
+
   margin: 50px;
   background-color: gray;
 }
