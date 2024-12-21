@@ -1,3 +1,4 @@
+
 /*.main {
     background-color: lightgray;
   }*/
@@ -7,4 +8,15 @@
   }
   .main__text--green {
     background-color: green;
+
+ .title {
+    color: green;
+   
+ .pageTitle {
+    color: blue;
+  }
+
+  .subTitle {
+    color: orange;
+
   }
