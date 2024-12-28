@@ -1,4 +1,205 @@
 
+
+.body{
+  display: flex;
+  flex-direction: row;
+}
+.topButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  margin-right: 50px;
+}
+
+.bottomButtonsWrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomBottomWrapper{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.button{
+  padding: 20px;
+
+.topButtonsWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  justify-content: center;
+}
+
+.middleButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  justify-content: flex-end;
+}
+
+.bottomButtonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button{
+  padding: 20px;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+
+.button {
+  padding: 20px;
+}
+.body{
+  display: flex;
+}
+.firstButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.secondButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.thirdButtonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.button {
+  padding: 20px;
+}
+.buttonsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  height: 200px;
+  align-items: center;
+}
+
+.button {
+  padding: 20px;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 200px;
+}
+
+.button {
+  padding: 20px;
+  
+
+.buttonsWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  padding: 20px;
+
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: flex-end;
+}
+
+.button {
+  padding: 20px;
+  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
+}
+
+.button {
+  padding: 0 200px;
+}
+.body {
+  margin: 30px;
+}
+.button {
+  padding: 20px;
+}
+.body{
+  margin: 20px;
+}
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  /*align-items */
+  align-items: flex-end;
+
+}
+  .buttonsWrapper {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-self: flex-start;
+
+.button {
+  padding: 20px;
+}
+.click {
+  padding: 30px;
+}
+
+.clickHere {
+  padding: 60px;
+
+  margin: 50px;
+  background-color: gray;
+}
+
+.header {
+  margin-bottom: 50px;
+  margin: 50px 0 50px 0;
+  background-color: orange;
+}
+
+.main {
+  margin-bottom: 40px;
+  background-color: green;
+}
+.main__topContent {
+  margin-bottom: 70px;
+}
+.main__topContentText {
+  margin-right: 100px;
+}
+.main__middleContentText {
+  margin-right: 200px;
+}
+
+
+.main__topContentTextFirst {
+  margin-right: 170px;
+  margin-bottom: 30px;
+  background-color: green;
+}
+.main__topContent {
+  margin-bottom: 10px;
+}
+.main__topContentText {
+  margin-right: 20px;
+}
+.main__middleContentText {
+  margin-right: 30px;
+}
+
+.footer {
+  background-color: pink;
+}
+.footer__text {
+  margin-right: 100px;
+}
+
+
+
   
   /*.main__text--lightsteelblue {
     background-color: lightsteelblue;
@@ -51,4 +252,5 @@
 }
 .about__commentText{
     color:grey;
+
 }
