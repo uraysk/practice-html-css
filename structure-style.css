@@ -1,0 +1,38 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;                /* デフォルトの余白を消去 */
+    font-family: Arial, sans-serif;
+    background-color: grey;
+}
+
+.reason{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 300px;
+    height: 480px;
+    background-color: white; 
+}
+.reason_title{
+    display: flex;
+    justify-content: center;
+    width: 375px;
+}
+.reason_content{
+    width: 270px; 
+
+}
+.reason_cont-img {
+    display: flex;
+    justify-content: center;  /* 画像を中央に */
+    width: 275px;
+    height: 160px;
+}
+
+.reason_cont-img img {
+    max-width: 100%;         /* 画像の幅を親の幅に合わせる */
+    height: auto;            /* 高さは自動調整 */
+  }
