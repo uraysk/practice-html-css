@@ -1,30 +1,37 @@
-.engr-market-title{
+.header{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 50px;
 }
-.engr-market_contents{
+
+.main-wrapper{
     display: flex;
     flex-direction: row;
-    align-items: center;
-    margin: 0 200px;
+    margin: 0 150px;
 }
-.engr-market-cont_img{
+.main-img{
     display: flex;
     justify-content: start;
     width: 500px;
-    margin-top: 100px;
-
+    margin: 20px;
 }
-.engr-market-cont_title{
-    display: flex;
-    justify-content: center;
-}
-.engr-market-contWrapper{
+.main-cont{
     display: flex;
     flex-direction: column;
-    justify-self: start;
-    margin-left: 35px;
+    margin: 0 20px;
+}
+
+.main-cont-title{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
+.main-cont-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
 }
 
